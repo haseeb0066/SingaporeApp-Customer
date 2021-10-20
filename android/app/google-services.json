@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "81181459861",
+    "project_id": "bueytahan-b3ef6",
+    "storage_bucket": "bueytahan-b3ef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81181459861:android:6e97236abd4d41cdf6629c",
+        "android_client_info": {
+          "package_name": "com.bueytahan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81181459861-0tflk14julkuokkg99h03iliusltvmsf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bueytahan",
+            "certificate_hash": "82542cf87bccc0c85919d950fef423ad83c51855"
+          }
+        },
+        {
+          "client_id": "81181459861-9sc3rmevk31odj8rjchh0cpisd763j1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bueytahan",
+            "certificate_hash": "f5358824670c59ea705a5e56d557e543c393a237"
+          }
+        },
+        {
+          "client_id": "81181459861-evqk5rt81jnpd3gk82vdtr2jcv5qtq7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bueytahan",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "81181459861-or0k0iakes7rib37fam3laj2jdptri85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bueytahan",
+            "certificate_hash": "c6974ab8f03f2bb98abe138b3a9d2b10400543eb"
+          }
+        },
+        {
+          "client_id": "81181459861-enum28707b82csl18qp40u0064m6s6bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJs34hcvaFD4K3f4yHnwZIpF7SIcTJ1oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81181459861-enum28707b82csl18qp40u0064m6s6bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
